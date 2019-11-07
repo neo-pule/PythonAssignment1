@@ -1,5 +1,5 @@
 #####################################
-#### EXERCISE 1 30 MARKS#######
+#### EXERCISE 1 - 30 MARKS#######
 #####################################
 
 # Time to review all the basic data types we learned! This should be a
